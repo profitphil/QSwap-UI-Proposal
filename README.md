@@ -33,7 +33,7 @@ Make QSwap easier to use and give it room to grow independently.
 - **Frontend UI**
 - **WalletConnect integration**
 - **Design inspired by Qearn UI**
-- **Hosting:** [https://qswap.live](https://qswap.live)
+- **Hosting:** [https://qswap.live](https://qswap.live)??
 
 ### Optional
 - Modify smart contract to redirect developer fees from **PeterD** to an **MSVAULT** wallet for a TBD dev team
