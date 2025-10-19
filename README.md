@@ -8,7 +8,7 @@ Currently, QSwap functionality is integrated into **Qubictrade.com’s** existin
 A separate site would:
 - Give QSwap its own **brand identity**
 - Enable **customized features**
-- Operate **independently** of the broader Qubictrade platform
+- Operate **independently** of the Qubictrade platform
 
 **Goal:**  
 Make QSwap easier to use and give it room to grow independently.
