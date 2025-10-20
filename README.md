@@ -40,7 +40,7 @@ Make QSwap easier to use and give it room to grow independently.
 
 ---
 
-## Future Plans (Suggested)
+## Future Plans (Suggestions)
 
 - Mobile app development  
 - Qubic mobile wallet integration  
