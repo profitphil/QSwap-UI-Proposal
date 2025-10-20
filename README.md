@@ -22,7 +22,7 @@ Make QSwap easier to use and give it room to grow independently.
 - **Serendipity**  
 - **Poly**
 
-**Funding Request:** `$7,500 USD (≈5B Qu @ 0.00000145)`  
+**Funding Request:** `$8.900 USD (≈6B Qu @ 0.0000015)`  
 **Destination Wallet:**  
 `QSWAPBCTQGITIFKAEZAJPWERLAWCTLDDXDPWBHXXIEWWRLKCPLGDUUHBXJPD`
 
