@@ -2,13 +2,13 @@
 
 ## Overview
 
-This proposal is to create a **dedicated user interface and website** specifically for **QSwap smart contract operations**.  
-Currently, QSwap functionality is integrated into **Qubictrade.com’s** existing interface.  
+This proposal is to create a dedicated user interface and website specifically for QSwap smart contract operations.  
+Currently, QSwap functionality is integrated into Qubictrade.com’s existing interface.  
 
 A separate site would:
-- Give QSwap its own **brand identity**
-- Enable **customized features**
-- Operate **independently** of the Qubictrade platform
+- Give QSwap its own brand identity
+- Enable customized features
+- Operate independently of the Qubictrade platform
 
 **Goal:**  
 Make QSwap easier to use and give it room to grow independently.
