@@ -22,7 +22,7 @@ Make QSwap easier to use and give it room to grow independently.
 - **Serendipity**  
 - **Poly**
 
-**Funding Request:** `$8.900 USD (≈6B Qu @ 0.0000015)`  
+**Funding Request:** `$8.900 USD`  
 **Destination Wallet:**  
 `QSWAPBCTQGITIFKAEZAJPWERLAWCTLDDXDPWBHXXIEWWRLKCPLGDUUHBXJPD`
 
@@ -35,16 +35,6 @@ Make QSwap easier to use and give it room to grow independently.
 - **Design inspired by Qearn UI**
 - **Hosting:** [https://qswap.live](https://qswap.live)?? or official subdomain qswap.qubic.org
 - 
-
-### Optional
-- Modify smart contract to redirect developer fees from **PeterD** to an **MSVAULT** wallet for a TBD dev team?
-
----
-
-## Future Plans (Suggestions)
-
-- Mobile app development  
-- Qubic mobile wallet integration  
 
 ---
 
