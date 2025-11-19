@@ -32,6 +32,7 @@ Make QSwap easier to use and give it room to grow independently.
 - **Frontend UI**
 - **WalletConnect integration**
 - **Design inspired by Qearn UI**
+- **Chart**
 - **Hosting:** [https://qswap.live](https://qswap.live)?? or official subdomain qswap.qubic.org
 - 
 
