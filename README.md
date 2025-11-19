@@ -58,6 +58,7 @@ Make QSwap easier to use and give it room to grow independently.
 | **M3** | 1 Week | Final audit, and handoff |
 
 ---
+## UI
 Our Qswap UI will include 2 major pages
 1. Swap (swap form similar with Uniswap/Raydium)
 2. Liquidity (add/remove liquidity from pool) & Token rights transfer (qx <--> qswap)
