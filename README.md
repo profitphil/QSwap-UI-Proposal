@@ -21,7 +21,7 @@ Make QSwap easier to use and give it room to grow independently.
 - **Profitphil**  
 - **Serendipity**  
 
-**Funding Request:** `$8.900 USD`  
+**Funding Request:** `$11,700 USD`  
 **Destination Wallet:**  
 `QSWAPBCTQGITIFKAEZAJPWERLAWCTLDDXDPWBHXXIEWWRLKCPLGDUUHBXJPD`
 
@@ -49,35 +49,40 @@ Make QSwap easier to use and give it room to grow independently.
 
 ## Detailed Scope & Timeline
 
-**Estimated Duration:** 6 Weeks  
+**Estimated Duration:** 8 Weeks  
 
 | Milestone | Duration | Deliverables |
 |------------|-----------|---------------|
 | **M1** | 1 Week | UI mockups + WalletConnect integration |
 | **M2** | 4 Weeks | UI integration with smart contracts |
-| **M3** | 1 Week | Final audit, and handoff |
+| **M3** | 2 Weeks | Chart integration |
+| **M4** | 1 Week | Final audit, and handoff |
 
 ---
 ## UI
-Our Qswap UI will include 2 major pages
-1. Swap (swap form similar with Uniswap/Raydium)
-2. Liquidity (add/remove liquidity from pool) & Token rights transfer (qx <--> qswap)
+Our Qswap UI will include 2 major pages(or 2 more pages optionally)
+1. Home (optional, major slogan, brand, description)
+2. Swap (swap form similar with Uniswap/Raydium)
+3. Liquidity (add/remove liquidity from pool)
+4. Faq(optional, some FAQ contents)
+
 ---
 
 ## Payment Terms
 
-**Total Request:** `$8,900 USD`
+**Total Request:** `$11,700 USD`
 
 | Category | Hours | Rate | Subtotal |
 |-----------|--------|------|-----------|
-| Frontend + UI Development | 240 hrs | $35/hr | $8,400 |
+| Frontend + UI Development | 320 hrs | $35/hr | $11,200 |
 | Webserver Setup & Maintenance | — | — | $500 |
 | **Total** | — | — | **$8,900** |
 
 **Disbursement Schedule:**
 - **M1:** 20%  
-- **M2:** 50%  
-- **M3:** 30%  
+- **M2:** 30%  
+- **M3:** 30%
+- **M4:** 20%
 
 ---
 
