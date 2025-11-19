@@ -76,7 +76,7 @@ Our Qswap UI will include 2 major pages(or 2 more pages optionally)
 |-----------|--------|------|-----------|
 | Frontend + UI Development | 320 hrs | $35/hr | $11,200 |
 | Webserver Setup & Maintenance | — | — | $500 |
-| **Total** | — | — | **$8,900** |
+| **Total** | — | — | **$11,700** |
 
 **Disbursement Schedule:**
 - **M1:** 20%  
