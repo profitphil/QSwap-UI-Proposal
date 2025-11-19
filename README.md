@@ -41,8 +41,8 @@ Make QSwap easier to use and give it room to grow independently.
 
 | Layer | Technology |
 |-------|-------------|
-| Smart Contract | C++ (Qubic environment) |
 | Frontend | React + Vite |
+| Backend | Express(or Gin) + Bob |
 | Connectivity | Qubic Connect |
 
 ---
