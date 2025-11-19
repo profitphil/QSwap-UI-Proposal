@@ -20,7 +20,6 @@ Make QSwap easier to use and give it room to grow independently.
 **To be developed by Qraffle Team:**
 - **Profitphil**  
 - **Serendipity**  
-- **Poly**
 
 **Funding Request:** `$8.900 USD`  
 **Destination Wallet:**  
@@ -58,6 +57,10 @@ Make QSwap easier to use and give it room to grow independently.
 | **M2** | 4 Weeks | UI integration with smart contracts |
 | **M3** | 1 Week | Final audit, and handoff |
 
+---
+Our Qswap UI will include 2 major pages
+1. Swap (swap form similar with Uniswap/Raydium)
+2. Liquidity (add/remove liquidity from pool) & Token rights transfer (qx <--> qswap)
 ---
 
 ## Payment Terms
